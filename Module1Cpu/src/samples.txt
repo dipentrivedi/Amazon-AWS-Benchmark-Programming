@@ -1,0 +1,2641 @@
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Enter No. of Threads:
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1167
+GFLOPS : 21.422450728
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1189
+GFLOPS : 21.026072329
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1186
+GFLOPS : 21.07925801
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1089
+GIOPS : 32.139577594
+flops estimated time:1249
+GFLOPS : 20.01601281
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1228
+GFLOPS : 20.358306188
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1196
+GFLOPS : 20.903010033
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1177
+GFLOPS : 21.240441801
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1294
+GFLOPS : 19.319938176
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1333
+GFLOPS : 18.754688672
+Iops estimated time: 1085
+GIOPS : 32.258064516
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1095
+GIOPS : 31.963470319
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1241
+GFLOPS : 20.145044319
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1228
+GFLOPS : 20.358306188
+Iops estimated time: 1091
+GIOPS : 32.080659945
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1198
+GFLOPS : 20.868113522
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1230
+GFLOPS : 20.325203252
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1243
+GFLOPS : 20.112630732
+Iops estimated time: 1101
+GIOPS : 31.78928247
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1185
+GFLOPS : 21.097046413
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1240
+GFLOPS : 20.161290322
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1234
+GFLOPS : 20.259319286
+Iops estimated time: 1094
+GIOPS : 31.992687385
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1162
+GFLOPS : 21.514629948
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1228
+GFLOPS : 20.358306188
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1192
+GFLOPS : 20.973154362
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1097
+GIOPS : 31.905195989
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1237
+GFLOPS : 20.210185933
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1238
+GFLOPS : 20.193861066
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1178
+GFLOPS : 21.222410865
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1167
+GFLOPS : 21.422450728
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1164
+GFLOPS : 21.47766323
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1301
+GFLOPS : 19.215987701
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1190
+GFLOPS : 21.008403361
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1170
+GFLOPS : 21.367521367
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1091
+GIOPS : 32.080659945
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1175
+GFLOPS : 21.276595744
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1184
+GFLOPS : 21.114864864
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1165
+GFLOPS : 21.459227467
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1161
+GFLOPS : 21.533161068
+Iops estimated time: 1098
+GIOPS : 31.876138433
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1053
+GIOPS : 33.238366571
+flops estimated time:1194
+GFLOPS : 20.93802345
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1143
+GIOPS : 30.621172353
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1180
+GFLOPS : 21.186440677
+Iops estimated time: 1103
+GIOPS : 31.731640979
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1194
+GFLOPS : 20.93802345
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1193
+GFLOPS : 20.955574182
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1098
+GIOPS : 31.876138433
+flops estimated time:1233
+GFLOPS : 20.275750202
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1181
+GFLOPS : 21.16850127
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1105
+GIOPS : 31.674208144
+flops estimated time:1177
+GFLOPS : 21.240441801
+Iops estimated time: 1089
+GIOPS : 32.139577594
+flops estimated time:1241
+GFLOPS : 20.145044319
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1181
+GFLOPS : 21.16850127
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1321
+GIOPS : 26.495079485
+flops estimated time:1430
+GFLOPS : 17.482517482
+Iops estimated time: 1257
+GIOPS : 27.84407319
+flops estimated time:1384
+GFLOPS : 18.063583815
+Iops estimated time: 1266
+GIOPS : 27.646129541
+flops estimated time:1503
+GFLOPS : 16.633399866
+Iops estimated time: 1232
+GIOPS : 28.409090909
+flops estimated time:1310
+GFLOPS : 19.083969465
+Iops estimated time: 1123
+GIOPS : 31.166518254
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1228
+GFLOPS : 20.358306188
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1243
+GFLOPS : 20.112630732
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1182
+GFLOPS : 21.150592216
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1279
+GFLOPS : 19.546520719
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1244
+GFLOPS : 20.096463022
+Iops estimated time: 1107
+GIOPS : 31.616982836
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1267
+GFLOPS : 19.731649565
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1164
+GFLOPS : 21.47766323
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1234
+GFLOPS : 20.259319286
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1238
+GFLOPS : 20.193861066
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1198
+GFLOPS : 20.868113522
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1173
+GFLOPS : 21.312872975
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1161
+GFLOPS : 21.533161068
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1187
+GFLOPS : 21.061499578
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1190
+GFLOPS : 21.008403361
+Iops estimated time: 1120
+GIOPS : 31.25
+flops estimated time:1239
+GFLOPS : 20.17756255
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1172
+GFLOPS : 21.33105802
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1055
+GIOPS : 33.17535545
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1222
+GFLOPS : 20.458265139
+Iops estimated time: 1094
+GIOPS : 31.992687385
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1240
+GFLOPS : 20.161290322
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1184
+GFLOPS : 21.114864864
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1196
+GFLOPS : 20.903010033
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1172
+GFLOPS : 21.33105802
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1162
+GFLOPS : 21.514629948
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1187
+GFLOPS : 21.061499578
+Iops estimated time: 1100
+GIOPS : 31.818181818
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1174
+GFLOPS : 21.294718909
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1227
+GFLOPS : 20.374898125
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1196
+GFLOPS : 20.903010033
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1161
+GFLOPS : 21.533161068
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1103
+GIOPS : 31.731640979
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1234
+GFLOPS : 20.259319286
+Iops estimated time: 1250
+GIOPS : 28.0
+flops estimated time:1427
+GFLOPS : 17.519271198
+Iops estimated time: 1113
+GIOPS : 31.44654088
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1089
+GIOPS : 32.139577594
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1194
+GFLOPS : 20.93802345
+Iops estimated time: 1108
+GIOPS : 31.588447653
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1184
+GFLOPS : 21.114864864
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1247
+GFLOPS : 20.048115477
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1235
+GFLOPS : 20.242914979
+Iops estimated time: 1345
+GIOPS : 26.022304832
+flops estimated time:1178
+GFLOPS : 21.222410865
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1091
+GIOPS : 32.080659945
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1235
+GFLOPS : 20.242914979
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1198
+GFLOPS : 20.868113522
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1176
+GFLOPS : 21.258503401
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1233
+GFLOPS : 20.275750202
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1192
+GFLOPS : 20.973154362
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1237
+GFLOPS : 20.210185933
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1198
+GFLOPS : 20.868113522
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1180
+GFLOPS : 21.186440677
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1172
+GFLOPS : 21.33105802
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1252
+GFLOPS : 19.968051118
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1245
+GFLOPS : 20.080321285
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1188
+GFLOPS : 21.043771043
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1187
+GFLOPS : 21.061499578
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1176
+GFLOPS : 21.258503401
+Iops estimated time: 1089
+GIOPS : 32.139577594
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1088
+GIOPS : 32.169117647
+flops estimated time:1183
+GFLOPS : 21.13271344
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1192
+GFLOPS : 20.973154362
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1105
+GIOPS : 31.674208144
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1189
+GFLOPS : 21.026072329
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1183
+GFLOPS : 21.13271344
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1169
+GFLOPS : 21.385799828
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1222
+GFLOPS : 20.458265139
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1165
+GFLOPS : 21.459227467
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1126
+GIOPS : 31.083481349
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1188
+GFLOPS : 21.043771043
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1057
+GIOPS : 33.112582781
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1196
+GFLOPS : 20.903010033
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1195
+GFLOPS : 20.920502092
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1090
+GIOPS : 32.110091743
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1165
+GFLOPS : 21.459227467
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1189
+GFLOPS : 21.026072329
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1250
+GFLOPS : 20.0
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1175
+GFLOPS : 21.276595744
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1090
+GIOPS : 32.110091743
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1162
+GFLOPS : 21.514629948
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1161
+GFLOPS : 21.533161068
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1173
+GFLOPS : 21.312872975
+Iops estimated time: 1090
+GIOPS : 32.110091743
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1235
+GFLOPS : 20.242914979
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1183
+GFLOPS : 21.13271344
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1265
+GFLOPS : 19.762845849
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1184
+GFLOPS : 21.114864864
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1274
+GFLOPS : 19.623233908
+Iops estimated time: 1121
+GIOPS : 31.222123104
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1188
+GFLOPS : 21.043771043
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1237
+GFLOPS : 20.210185933
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1227
+GFLOPS : 20.374898125
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1228
+GFLOPS : 20.358306188
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1089
+GIOPS : 32.139577594
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1165
+GFLOPS : 21.459227467
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1056
+GIOPS : 33.143939393
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1176
+GFLOPS : 21.258503401
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1083
+GIOPS : 32.317636195
+flops estimated time:1252
+GFLOPS : 19.968051118
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1238
+GFLOPS : 20.193861066
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1251
+GFLOPS : 19.984012789
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1240
+GFLOPS : 20.161290322
+Iops estimated time: 1100
+GIOPS : 31.818181818
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1093
+GIOPS : 32.021957913
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1239
+GFLOPS : 20.17756255
+Iops estimated time: 1058
+GIOPS : 33.081285444
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1056
+GIOPS : 33.143939393
+flops estimated time:1286
+GFLOPS : 19.440124416
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1205
+GFLOPS : 20.746887966
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1237
+GFLOPS : 20.210185933
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1112
+GIOPS : 31.474820143
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1235
+GFLOPS : 20.242914979
+Iops estimated time: 1095
+GIOPS : 31.963470319
+flops estimated time:1243
+GFLOPS : 20.112630732
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1167
+GFLOPS : 21.422450728
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1190
+GFLOPS : 21.008403361
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1185
+GFLOPS : 21.097046413
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1230
+GFLOPS : 20.325203252
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1195
+GFLOPS : 20.920502092
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1252
+GFLOPS : 19.968051118
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1261
+GFLOPS : 19.825535289
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1239
+GFLOPS : 20.17756255
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1174
+GFLOPS : 21.294718909
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1167
+GFLOPS : 21.422450728
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1300
+GFLOPS : 19.23076923
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1278
+GFLOPS : 19.561815336
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1087
+GIOPS : 32.198712051
+flops estimated time:1169
+GFLOPS : 21.385799828
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1193
+GFLOPS : 20.955574182
+Iops estimated time: 1092
+GIOPS : 32.051282051
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1105
+GIOPS : 31.674208144
+flops estimated time:1178
+GFLOPS : 21.222410865
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1177
+GFLOPS : 21.240441801
+Iops estimated time: 1096
+GIOPS : 31.934306569
+flops estimated time:1247
+GFLOPS : 20.048115477
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1165
+GFLOPS : 21.459227467
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1234
+GFLOPS : 20.259319286
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1167
+GFLOPS : 21.422450728
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1248
+GFLOPS : 20.032051282
+Iops estimated time: 1108
+GIOPS : 31.588447653
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1094
+GIOPS : 31.992687385
+flops estimated time:1170
+GFLOPS : 21.367521367
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1277
+GFLOPS : 19.577133907
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1191
+GFLOPS : 20.990764063
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1232
+GFLOPS : 20.292207792
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1210
+GFLOPS : 20.661157024
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1192
+GFLOPS : 20.973154362
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1244
+GFLOPS : 20.096463022
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1250
+GFLOPS : 20.0
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1248
+GFLOPS : 20.032051282
+Iops estimated time: 1081
+GIOPS : 32.377428307
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1277
+GFLOPS : 19.577133907
+Iops estimated time: 1060
+GIOPS : 33.018867924
+flops estimated time:1234
+GFLOPS : 20.259319286
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1235
+GFLOPS : 20.242914979
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1256
+GFLOPS : 19.904458598
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1245
+GFLOPS : 20.080321285
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1227
+GFLOPS : 20.374898125
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1222
+GFLOPS : 20.458265139
+Iops estimated time: 1072
+GIOPS : 32.649253731
+flops estimated time:1194
+GFLOPS : 20.93802345
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1219
+GFLOPS : 20.508613617
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1168
+GFLOPS : 21.404109589
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1198
+GFLOPS : 20.868113522
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1237
+GFLOPS : 20.210185933
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1115
+GIOPS : 31.390134529
+flops estimated time:1222
+GFLOPS : 20.458265139
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1176
+GFLOPS : 21.258503401
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1228
+GFLOPS : 20.358306188
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1226
+GFLOPS : 20.391517128
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1167
+GFLOPS : 21.422450728
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1166
+GFLOPS : 21.440823327
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1175
+GFLOPS : 21.276595744
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1248
+GFLOPS : 20.032051282
+Iops estimated time: 1082
+GIOPS : 32.347504621
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1077
+GIOPS : 32.497678737
+flops estimated time:1189
+GFLOPS : 21.026072329
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1075
+GIOPS : 32.558139534
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1183
+GFLOPS : 21.13271344
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1224
+GFLOPS : 20.424836601
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1175
+GFLOPS : 21.276595744
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1171
+GFLOPS : 21.349274124
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1073
+GIOPS : 32.618825722
+flops estimated time:1209
+GFLOPS : 20.678246484
+Iops estimated time: 1057
+GIOPS : 33.112582781
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1197
+GFLOPS : 20.885547201
+Iops estimated time: 1109
+GIOPS : 31.559963931
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1220
+GFLOPS : 20.491803278
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1206
+GFLOPS : 20.729684908
+Iops estimated time: 1059
+GIOPS : 33.050047214
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1186
+GFLOPS : 21.07925801
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1223
+GFLOPS : 20.441537203
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1222
+GFLOPS : 20.458265139
+Iops estimated time: 1070
+GIOPS : 32.710280373
+flops estimated time:1165
+GFLOPS : 21.459227467
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1212
+GFLOPS : 20.627062706
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1203
+GFLOPS : 20.781379883
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1211
+GFLOPS : 20.644095788
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1163
+GFLOPS : 21.496130696
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1213
+GFLOPS : 20.610057708
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1227
+GFLOPS : 20.374898125
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1170
+GFLOPS : 21.367521367
+Iops estimated time: 1084
+GIOPS : 32.287822878
+flops estimated time:1214
+GFLOPS : 20.593080724
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1202
+GFLOPS : 20.798668885
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1258
+GFLOPS : 19.87281399
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1175
+GFLOPS : 21.276595744
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1218
+GFLOPS : 20.525451559
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1261
+GFLOPS : 19.825535289
+Iops estimated time: 1097
+GIOPS : 31.905195989
+flops estimated time:1201
+GFLOPS : 20.815986677
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1238
+GFLOPS : 20.193861066
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1244
+GFLOPS : 20.096463022
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1186
+GFLOPS : 21.07925801
+Iops estimated time: 1085
+GIOPS : 32.258064516
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1183
+GFLOPS : 21.13271344
+Iops estimated time: 1092
+GIOPS : 32.051282051
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1102
+GIOPS : 31.760435571
+flops estimated time:1236
+GFLOPS : 20.226537216
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1216
+GFLOPS : 20.559210526
+Iops estimated time: 1064
+GIOPS : 32.894736842
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1234
+GFLOPS : 20.259319286
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1199
+GFLOPS : 20.850708924
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1215
+GFLOPS : 20.576131687
+Iops estimated time: 1086
+GIOPS : 32.228360957
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1066
+GIOPS : 32.833020637
+flops estimated time:1245
+GFLOPS : 20.080321285
+Iops estimated time: 1065
+GIOPS : 32.863849765
+flops estimated time:1208
+GFLOPS : 20.695364238
+Iops estimated time: 1079
+GIOPS : 32.437442075
+flops estimated time:1233
+GFLOPS : 20.275750202
+Iops estimated time: 1068
+GIOPS : 32.77153558
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1098
+GIOPS : 31.876138433
+flops estimated time:1229
+GFLOPS : 20.341741253
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1247
+GFLOPS : 20.048115477
+Iops estimated time: 1080
+GIOPS : 32.407407407
+flops estimated time:1248
+GFLOPS : 20.032051282
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1217
+GFLOPS : 20.542317173
+Iops estimated time: 1092
+GIOPS : 32.051282051
+flops estimated time:1204
+GFLOPS : 20.764119601
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1245
+GFLOPS : 20.080321285
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1207
+GFLOPS : 20.712510356
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1231
+GFLOPS : 20.30869212
+Iops estimated time: 1078
+GIOPS : 32.467532467
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1071
+GIOPS : 32.679738562
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1069
+GIOPS : 32.740879326
+flops estimated time:1288
+GFLOPS : 19.409937888
+Iops estimated time: 1248
+GIOPS : 28.044871794
+flops estimated time:1240
+GFLOPS : 20.161290322
+Iops estimated time: 1076
+GIOPS : 32.52788104
+flops estimated time:1175
+GFLOPS : 21.276595744
+Iops estimated time: 1074
+GIOPS : 32.588454376
+flops estimated time:1193
+GFLOPS : 20.955574182
+Iops estimated time: 1067
+GIOPS : 32.802249297
+flops estimated time:1225
+GFLOPS : 20.408163265
+Iops estimated time: 1061
+GIOPS : 32.987747408
+flops estimated time:1221
+GFLOPS : 20.475020475
+Iops estimated time: 1062
+GIOPS : 32.956685499
+flops estimated time:1232
+GFLOPS : 20.292207792
+Iops estimated time: 1063
+GIOPS : 32.925682031
+flops estimated time:1200
+GFLOPS : 20.833333333
+Iops estimated time: 1443
+GIOPS : 24.255024255
+flops estimated time:1664
+GFLOPS : 15.024038461
